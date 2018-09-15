@@ -1,0 +1,4 @@
+# https://www.lfd.uci.edu/~gohlke/pythonlibs/
+wheels/Twisted-18.7.0-cp36-cp36m-win_amd64.whl
+scrapy
+pypiwin32

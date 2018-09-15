@@ -1,0 +1,26 @@
+https://www.walmart.com/browse/electronics/tvs/3944_1060825_447913
+
+
+# Products
+url = https://www.walmart.com/search/api/preso?cat_id=3944_1060825_447913&prg=desktop&page=1&stores=2648%2C5434%2C2031%2C2280%2C5426
+api = https://www.walmart.com/search/api/preso
+
+
+# Sponsored Products
+url = https://www.walmart.com/search/api/wpa?el=sponsored-container-bottom-1&type=product&min=2&max=20&creative=1145x345_B-C-OG_TI_2-20_HL-BOTTOM-NY&placementId=1145x345_B-C-OG_TI_2-20_HL-BOTTOM-NY&theme=large&platform=desktop&bucketId=&isSpecialBrowse=false&moduleLocation=bottom&zipCode=94066&isZipLocated=true&pageType=browse&pageId=3944_1060825_447913&pageNumber=1&keyword=All%20TVs&taxonomy=3944_1060825_447913&customerId=2DC9B2C9052A7934-60000120E0003110&vtc=YENAZiZHjm_wHu7HrPyyOs&uid=45e450a7-937b-41bb-83e3-7cee2c7bdd33&itemsList=277181359%2C435389545%2C55528648%2C631796609%2C846112279%2C55427159%2C916717227%2C54898733%2C46784939%2C280424988&rviItems=10452580%2C312223599%2C143511528&itemsAddedToCart=0&viewportHeight=838&viewportWidth=1280&userLoggedIn=false&showBrand=&accessModeEnabled=true&mloc=bottom
+api_path = https://www.walmart.com/search/api/wpa
+
+
+
+shopify
+
+北好萊塢附近的 costco, walmart, Fry's Eletronics
+
+https://docs.scrapy.org/en/latest/
+
+scrapy crawl target_spider -o FILENAME
+
+
+zip
+https://www.zipmap.net/California/Los_Angeles_County/Z_North_Hollywood.htm
+91605 91606
